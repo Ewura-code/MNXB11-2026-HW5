@@ -1,0 +1,2 @@
+/bin/ar qc libhwlib.a CMakeFiles/hwlib.dir/src/as1.cxx.o CMakeFiles/hwlib.dir/src/as2.cxx.o
+/bin/ranlib libhwlib.a

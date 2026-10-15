@@ -1,0 +1,3 @@
+/home/ewucok/git/MNXB11-homework/submission3/MNXB11-2026-HW5/build/_deps/catch2-subbuild/CMakeFiles/catch2-populate.dir
+/home/ewucok/git/MNXB11-homework/submission3/MNXB11-2026-HW5/build/_deps/catch2-subbuild/CMakeFiles/edit_cache.dir
+/home/ewucok/git/MNXB11-homework/submission3/MNXB11-2026-HW5/build/_deps/catch2-subbuild/CMakeFiles/rebuild_cache.dir

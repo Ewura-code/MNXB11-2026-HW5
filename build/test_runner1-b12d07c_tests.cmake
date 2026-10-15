@@ -1,0 +1,5 @@
+add_test( [==[1.1 swap three raw pointers]==] /home/ewucok/git/MNXB11-homework/submission3/MNXB11-2026-HW5/build/test_runner1 [==[1.1 swap three raw pointers]==]  )
+set_tests_properties( [==[1.1 swap three raw pointers]==] PROPERTIES WORKING_DIRECTORY /home/ewucok/git/MNXB11-homework/submission3/MNXB11-2026-HW5/build)
+add_test( [==[Smart pointer 1.2]==] /home/ewucok/git/MNXB11-homework/submission3/MNXB11-2026-HW5/build/test_runner1 [==[Smart pointer 1.2]==]  )
+set_tests_properties( [==[Smart pointer 1.2]==] PROPERTIES WORKING_DIRECTORY /home/ewucok/git/MNXB11-homework/submission3/MNXB11-2026-HW5/build)
+set( test_runner1_TESTS [==[1.1 swap three raw pointers]==] [==[Smart pointer 1.2]==])

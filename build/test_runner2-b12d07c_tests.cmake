@@ -1,0 +1,5 @@
+add_test( [==[Knight attack and clone]==] /home/ewucok/git/MNXB11-homework/submission3/MNXB11-2026-HW5/build/test_runner2 [==[Knight attack and clone]==]  )
+set_tests_properties( [==[Knight attack and clone]==] PROPERTIES WORKING_DIRECTORY /home/ewucok/git/MNXB11-homework/submission3/MNXB11-2026-HW5/build)
+add_test( [==[Sorcerer attack and clone]==] /home/ewucok/git/MNXB11-homework/submission3/MNXB11-2026-HW5/build/test_runner2 [==[Sorcerer attack and clone]==]  )
+set_tests_properties( [==[Sorcerer attack and clone]==] PROPERTIES WORKING_DIRECTORY /home/ewucok/git/MNXB11-homework/submission3/MNXB11-2026-HW5/build)
+set( test_runner2_TESTS [==[Knight attack and clone]==] [==[Sorcerer attack and clone]==])
